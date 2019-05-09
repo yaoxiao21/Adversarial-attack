@@ -20,3 +20,6 @@ Dataset of 50,000 32x32 color training images, labeled over 10 categories, and 1
 - param backprop_through_attack: If True, backprop through adversarial example construction process during adversarial training.
 - param label_smoothing: float, amount of label smoothing for cross entropy
 - return: an AccuracyReport object
+
+# Code
+https://colab.research.google.com/drive/1eLTpIjDW4PTMW3wPBkYr31KqWjDPWh25
